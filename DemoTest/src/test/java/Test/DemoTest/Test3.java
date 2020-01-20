@@ -1,6 +1,6 @@
 package Test.DemoTest;
 
-public class Test1 
+public class Test3 
 {
 	void test1()
 	{
